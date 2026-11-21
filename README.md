@@ -1,5 +1,9 @@
 # github-core-clone-01-entry
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/Butss20/github-core-clone-01-entry/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/Butss20/github-core-clone-01-entry/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A GitHub-compatible git forge, built for the
 [github-core-clone-01](https://make.fun/bounty/github-core-clone-01) bounty.
 Node 22 standard library only — no dependencies, no git binary, no install
@@ -44,3 +48,7 @@ the trial is over, then exits 0. It never binds 8080.
   store the git protocol reads from.
 - The token owner's login is fixed by the contest's seeded scenario
   (seed `0x6a09e667f3bcc909`); the entry does not invent logins.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=1q9chnpq&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
